@@ -16,6 +16,7 @@ span{
     display: grid;
     justify-content: center;
     align-items: center;
+    padding-left: 22px;
 }
 
 .heading{
@@ -79,7 +80,7 @@ span{
     background-color: brown;
 }
 
-@media(width <= 400px){
+@media(width <= 450px){
     .canvas {
     padding-left: 20px;
     }
